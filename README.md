@@ -1,5 +1,13 @@
-👋 Hi, I’m @zeldigital
-👀 I’m interested in Google Ads management, maximizing ROI for businesses, and leveraging PPC strategies to drive growth.
-🌱 I’m currently learning advanced data analytics and machine learning to further optimize ad performance.
-💞️ I’m looking to collaborate on projects related to digital marketing, PPC campaigns, and AI-driven ad optimization.
-📫 How to reach me: You can contact me via email at hanzel@zeldigital.com or visit my website www.zeldigital.com.
+# 👋 Hi, I’m @zeldigital  
+
+🚀 Growth Marketer turned Indie Builder — blending performance marketing with indie product building.  
+
+👀 Passionate about Google Ads management, maximizing ROI, and leveraging data-driven PPC strategies for growth.  
+
+🛠️ Now building tools, SaaS experiments, and micro-startups while applying my growth marketing expertise.  
+
+🌱 Constantly learning advanced data analytics, AI, and automation to sharpen both marketing and product skills.  
+
+💡 Open to collaborating on digital marketing projects, indie SaaS ventures, AI tools, and performance-driven experiments.  
+
+📫 Reach me at **hanzel@zeldigital.com** or visit **[www.zeldigital.com](https://www.zeldigital.com)**.  
